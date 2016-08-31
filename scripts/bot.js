@@ -3,12 +3,3 @@ module.exports = function(robot){
    return res.send("I'm a robot--I don't eat food!");
  });
 }
-
-// // Add your change:
-//  `git add .`
-//
-//  Commit your change:
-//  `git commit -m "changed bot blah blah"`
-//
-//  Push changes to heroku:
-//  `git push heroku master`
